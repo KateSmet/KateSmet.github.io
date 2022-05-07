@@ -1,0 +1,144 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Montserrat;
+  }
+
+  .contacts-link-tipe{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color:rgb(22, 21, 21);
+    margin-right: 10px;
+   }
+
+.contacts-title{  
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: rgb(22, 21, 21);
+    margin-bottom: 20px;
+}
+
+.contacts-container{
+margin-top: 60px;
+margin-left: 40px;
+margin-right: 40px;
+}
+
+.professional-skills-container{
+    margin-top: 55px;
+    margin-left: 40px;
+}
+
+.skills-item{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: grey;
+    margin-bottom: 15px;
+}
+
+.skills-title { 
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    color:black;
+    margin-bottom: 20px;
+}
+
+.projects-container{
+    margin-bottom: 55px;
+}
+
+.skills-text {
+    color: rgb(129, 127, 123)
+}
+
+.social-media {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 5px;
+    margin-right: 7px;
+}
+
+.sidebar {
+    background-color: rgb(195, 224, 230);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.soft-skills-container{
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.my-photo {
+    width: 230px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.word-style{
+line-height: 32px;
+font-weight: 700;
+color: rgb(65, 127, 127);
+font-size: 14px;
+}
+
+
+.wrapper{
+    background-color: rgb(227, 210, 217);
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.expectations{
+    line-height: 60px;
+}
+
+.professional-backround{
+    line-height: 45px;
+    margin-left: 32px;
+}
+
+.duties{
+    line-height: 24px;
+}
+
+.education{
+    line-height: 70px;
+    margin-left: 18px;
+}
+
+.expectations-job{
+    margin-left: 32px;
+    line-height: 24px;
+}
+.expectations{
+    margin-top: 48px;
+}
+.my-name{
+    margin-left: 18px;
+    margin-top: 24px;
+}
+.privios-name{
+    margin-top: 32px;
+}
+.duties-details{
+    line-height: 30px;
+}
+.expectations-details{
+    line-height: 30px;
+}
+.exp-head{
+    margin-bottom: 18px;
+}
